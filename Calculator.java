@@ -1,6 +1,3 @@
-// Java program to demonstrate lamda expressions to implement 
-// a user defined functional interface. 
-
 @FunctionalInterface
 interface Addition
 { 
